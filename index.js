@@ -1446,6 +1446,3 @@ const users = [
       completed: false
     }
   ];
-  
-
-alert(users.id.name);
